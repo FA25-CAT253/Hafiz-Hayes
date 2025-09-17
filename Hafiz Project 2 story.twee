@@ -1,0 +1,87 @@
+:: StoryTitle
+Hafiz Project 2 story
+
+
+:: StoryData
+{
+  "ifid": "6988E8A0-CB50-4D9F-BFC6-9048CDCFE71B",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Ignore Timmy {"position":"900,875","size":"100,100"}
+You walk passed Timmy and continue walking once you reach the elevator you hear a loud noise it sounded like a bottle broke 
+
+
+:: Open Door\  {"position":"900,625","size":"100,100"}
+You step outside, tilting your head up to take in a deep breathe 
+
+You open your eyes and stare at the crescent moon's glistening red light 
+"Something about the moon seems strange
+
+While staring at the moon you start to take in all Night City noise 
+
+You start walking down your apartment hallway heading towards the elevator. 
+
+While walking towards the elevator you hear your next door couple arguing again 
+
+Damn this is like the 6th fight this week why dont they just break up already
+
+You see Timmy walk outside pissed 
+
+[[Talk to Timmy]] 
+
+[[Ignore Timmy]]
+
+
+:: Talk to Timmy {"position":"1025,750","size":"100,100"}
+
+
+
+:: Untitled Passage {"position":"900,375","size":"100,100"}
+Night Walker 
+
+Hafiz
+
+[[Wake up ]]
+
+(font:'Tektur') 
+[Night Walker 
+
+Hafiz]
+
+
+
+
+:: Wake up\  {"position":"900,500","size":"100,100"}
+Ahhhhh, paint paint panit
+
+Dammit another knightmare 
+Shit what does this make it the 3rd week in a row that I haven't been able to get any sleep 
+I'm tired of this damn dreams haunting me I just want it to end 
+uhhhh I should go clear my head
+
+You grab your jacket and decide to take a walk outside
+
+[[Open Door ]] 
+
+(font:'Rubik Glitch')
+[Ahhhhh, paint paint panit]
+
+(font:'Tektur') 
+
+[Dammit another knightmare 
+Shit what does this make it the 3rd week in a row that I haven't been able to get any sleep 
+I'm tired of this damn dreams haunting me I just want it to end 
+uhhhh I should go clear my head
+
+You grab your jacket and decide to take a walk outside]
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
